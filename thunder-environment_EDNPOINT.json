@@ -1,0 +1,14 @@
+{
+    "clientName": "Thunder Client",
+    "environmentName": "EDNPOINT",
+    "environmentId": "28fadcc5-fefc-4893-9992-0dba45eced7e",
+    "dateExported": "2024-08-16T15:03:47.191Z",
+    "version": "1.2",
+    "variables": [
+        {
+            "name": "endpoint",
+            "value": "http://apis.test:83"
+        }
+    ],
+    "ref": "-bQnWqvrG2TyRWWFf022bYutD584V8_10UYH37VDRcyDnRYoBfZUSQ-a10mtPQNf"
+}
